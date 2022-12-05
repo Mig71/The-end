@@ -1,4 +1,4 @@
-﻿gitusing static System.Console;
+﻿using static System.Console;
 
 //Метод, который считывает строку с консли.
 
